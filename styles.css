@@ -1,19 +1,14 @@
 body{
-  background-color: #ffe6ff;
-font-family:Courier New;
+  background-color:#94B3FD;
+  font-family: open sans;
+}
 
+.dgintro {
+  background-color: #94DAFF;
+  color:#3E065F;
+  padding:10px 20px 10px 20px;
 }
-hr{
-  border:none;
-  border-top:5px dotted #dd99ff;
-  width:5%;
-}
-h1{
-  color:#583d72;
-}
-h3{
-  color:#583d72;
-}
-p{
-  color:#583d72;
+
+.dgcv {
+
 }
